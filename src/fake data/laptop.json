@@ -1,0 +1,92 @@
+[
+    {
+      "id": 1,
+      "img": "https://www.startech.com.bd/image/cache/catalog/laptop/hp-laptop/15s-du1115tu/15s-du1115tu-01-500x500.jpg",
+      "price": 520,
+      "name": "HP 15s-du1115TU Celeron N4020 ",
+      "category": "Laptop",
+      "seller": "startech"
+      
+    },
+    {
+      "id": 2,
+      "img": "https://www.startech.com.bd/image/cache/catalog/laptop/hp-laptop/envy-x360-convert-13-ay1678au/envy-x360-convert-13-ay1678au-01-500x500.jpg",
+      "price": 1200,
+      "name": "HP ENVY x360 Convert 13-ay1678AU",
+      "category": "Laptop",
+      "seller": "startech"
+      
+    },
+    {
+      "id": 3,
+      "img": "https://www.startech.com.bd/image/cache/catalog/laptop/hp-laptop/pavilion-aero-13/pavilion-aero-13-01-500x500.jpg",
+      "price": 1040,
+      "name": "HP Pavilion Aero 13-be0345AU",
+      "category": "Laptop",
+      "seller": "Addidas"
+      
+    },
+    {
+      "id": 4,
+      "img": "https://www.startech.com.bd/image/cache/catalog/laptop/hp-laptop/440-g8/440-g8-01-500x500.jpg",
+      "price": 970,
+      "name": "HP ProBook 440 G8 ",
+      "category": "Laptop",
+      "seller": "Addidas"
+      
+    },
+    {
+      "id": 5,
+      "img": "https://www.startech.com.bd/image/cache/catalog/laptop/hp-laptop/pavilion-14-dv1234tu/pavilion-14-dv1234tu-01-500x500.jpg",
+      "price": 900,
+      "name": "HP Pavilion 14-dv1234TU",
+      "category": "Laptop",
+      "seller": "Addidas"
+      
+    },
+    {
+      "id": 6,
+      "img": "https://www.startech.com.bd/image/cache/catalog/laptop/hp-laptop/14s-dq2888tu/14s-dq2888tu-01-500x500.jpg",
+      "price": 820,
+      "name": "HP 14s-dq2888TU",
+      "category": "Laptop",
+      "seller": "Addidas"
+      
+    },
+    {
+      "id": 7,
+      "img": "https://www.startech.com.bd/image/cache/catalog/laptop/hp-laptop/15s-fq2644tu/15s-fq2644tu-01-500x500.jpg",
+      "price": 580,
+      "name": "HP 15s-fq2644TU",
+      "category": "Laptop",
+      "seller": "Addidas"
+      
+    },
+    {
+      "id": 8,
+      "img": "https://www.startech.com.bd/image/cache/catalog/laptop/hp-laptop/250-g8/250-g8-01-500x500.jpg",
+      "price": 585,
+      "name": "HP 250 G8 Core i3 11th Gen",
+      "category": "Laptop",
+      "seller": "Addidas"
+      
+    },
+    {
+      "id": 9,
+      "img": "https://www.startech.com.bd/image/cache/catalog/laptop/hp-laptop/15s-du3022tu/15s-du3022tu-01-500x500.jpg",
+      "price": 600,
+      "name": "HP 15s-du3022TU",
+      "category": "Laptop",
+      "seller": "Addidas"
+      
+    },
+    {
+      "id": 10,
+      "img": "https://www.startech.com.bd/image/cache/catalog/laptop/hp-laptop/15s-du1117tu/15s-du1117tu-001-500x500.jpg",
+      "price": 420,
+      "name": "HP 15s-du1117TU Pentium ",
+      "category": "Laptop",
+      "seller": "Startech"
+      
+    }
+]
