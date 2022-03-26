@@ -79,14 +79,6 @@
       "category": "Laptop",
       "seller": "Addidas"
       
-    },
-    {
-      "id": 10,
-      "img": "https://www.startech.com.bd/image/cache/catalog/laptop/hp-laptop/15s-du1117tu/15s-du1117tu-001-500x500.jpg",
-      "price": 420,
-      "name": "HP 15s-du1117TU Pentium ",
-      "category": "Laptop",
-      "seller": "Startech"
-      
     }
+    
 ]

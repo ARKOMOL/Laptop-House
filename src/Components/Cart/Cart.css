@@ -2,14 +2,20 @@
     display: flex;
     margin: 0 30px;
 }
-.cart-container img{
-    border-radius: 50%;
-    background-color: green;
-}
+
 .cart-btn button{
-    width: 60%;
+    background-color: rgb(143, 189, 195);
+    width: 80%;
     padding:4px;
     border-radius: 10px;
     margin: 5px;
+    font-size: 18px;
+    color: rgb(236, 236, 236);
 
+}
+.cart-btn button:hover{
+    background-color: orange;
+}
+.cart-btn img{
+    width: 100px;
 }
