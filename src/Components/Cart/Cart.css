@@ -1,7 +1,15 @@
 .cart-container{
     display: flex;
+    margin: 0 30px;
 }
 .cart-container img{
     border-radius: 50%;
     background-color: green;
+}
+.cart-btn button{
+    width: 60%;
+    padding:4px;
+    border-radius: 10px;
+    margin: 5px;
+
 }

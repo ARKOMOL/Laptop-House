@@ -8,6 +8,7 @@ function App() {
       <h1>Laptop House</h1>
       <h3>Choose Your Laptop</h3>
       <Shop></Shop>
+  
     </div>
   );
 }

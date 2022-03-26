@@ -8,9 +8,6 @@ const Shop = () => {
 
     const [products,setProducts] = useState([]);
     const [cart,setCart] = useState([]);
-    console.log(cart);
-   
-
 
     useEffect( ()=>{
         fetch('laptop.json')
@@ -18,28 +15,29 @@ const Shop = () => {
         .then(data =>setProducts(data))
     },[])
 
+ 
 
     const handleAddToCart =(product)=>{
-        const newCart =[...cart,product];
-        setCart(newCart);
-        // const exist =
-      
-        // console.log(product);
+
+    const newCart =[...cart,product];
+    setCart(newCart);
     }
+
+  
     return (
         <div className='shop-container'>
             <div className="products-container">
                 
                 {
                     products.map(product =><Product
-                    key={product.id} product={product} name={product.name}  handleAddToCart={handleAddToCart}
+                    key={product.id} product={product} name={product.name}  handleAddToCart={handleAddToCart} 
                     ></Product>)
                 }
                 
             </div>
 
             <div className="cart-container">
-               <Cart cart ={cart} key={cart.id} ></Cart>
+               <Cart cart ={cart} ></Cart>
 
             </div>
         </div>
