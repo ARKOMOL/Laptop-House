@@ -1,0 +1,7 @@
+.cart-container{
+    display: flex;
+}
+.cart-container img{
+    border-radius: 50%;
+    background-color: green;
+}
