@@ -9,6 +9,10 @@
     margin-left: 50px;
     
 }
+.cart-container{
+   border: 1px solid gray;
+   border-radius: 20px;
+}
 @media screen and (max-width:600px) {
     .products-container{
       grid-template-columns: repeat(2,1fr);  }
@@ -26,7 +30,9 @@
           
       }
       .cart-container{
-          margin-left: 65px;
+          text-align: center;
+          margin-left: 55px;
           margin-bottom: 30px;
+        
       }
   }
